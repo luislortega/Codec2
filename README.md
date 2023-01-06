@@ -1,2 +1,2 @@
 # Codec2
-encoder / coder for Pulse Code Modulations
+🎙 Android [ ENCODE / DECODE ] for Pulse Code Modulations (C2) 
